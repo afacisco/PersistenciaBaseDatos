@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PersistenciaBaseDatos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorPrimaryDark">@color/dark_primary</item>
+        <item name="colorAccent">@color/color_accent</item>
+    </style>
+
+    <style name="Theme.PersistenciaBaseDatos" parent="Base.Theme.PersistenciaBaseDatos" />
+</resources>

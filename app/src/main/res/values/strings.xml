@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Persistencia Base Datos</string>
+    <string name="dialogo_usuario_text">Usuario</string>
+    <string name="dialogo_comentario_text">Comentario</string>
+    <string name="dialogo_nuevo_comentario">Guardar comentario</string>
+    <string name="aceptar_snack">Aceptar</string>
+    <string name="options_menu_salir">Salir</string>
+    <string name="dialogo_salir_mensaje">¿Desea salir de la aplicación?</string>
+    <string name="dialogo_eliminar_mensaje">¿Desea eliminar el comentario?</string>
+    <string name="dialogo_eliminar_titulo">Eliminar Comentario</string>
+    <string name="dialogo_editar_mensaje">¿Desea editar el comentario?</string>
+    <string name="dialogo_editar_titulo">Editar Comentario</string>
+    <string name="btn_positivo_dialogo">Aceptar</string>
+    <string name="btn_negativo_dialogo">Cancelar</string>
+    <string name="txt_campos_oblig">Los campos son obligatorios</string>
+</resources>

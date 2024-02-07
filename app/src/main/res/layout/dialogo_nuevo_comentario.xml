@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/usuario"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:layout_marginLeft="@dimen/elevation_toolbar"
+        android:layout_marginRight="@dimen/elevation_toolbar"
+        android:layout_marginBottom="@dimen/elevation_toolbar"
+        android:hint="@string/dialogo_usuario_text" />
+    <EditText
+        android:id="@+id/comentario"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/elevation_toolbar"
+        android:layout_marginLeft="@dimen/elevation_toolbar"
+        android:layout_marginRight="@dimen/elevation_toolbar"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:hint="@string/dialogo_comentario_text"/>
+</LinearLayout>

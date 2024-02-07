@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="et_text_size">14dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="window_padding">30dp</dimen>
+    <dimen name="act_margintop_listado">30dp</dimen>
+    <dimen name="usuario_textsize_card">18dp</dimen>
+</resources>
